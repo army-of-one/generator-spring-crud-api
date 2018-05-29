@@ -1,0 +1,25 @@
+{
+  "name": "generator-spring-crud-api",
+  "version": "1.0.0",
+  "description": "Generates a Spring based CRUD API with Database Connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/army-of-one/generator-spring-crud-api.git"
+  },
+  "author": "Thomas Sickert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/army-of-one/generator-spring-crud-api/issues"
+  },
+  "homepage": "https://github.com/army-of-one/generator-spring-crud-api#readme",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^2.0.5"
+  }
+}
